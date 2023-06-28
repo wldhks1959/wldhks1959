@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Jiwan Seo] 👋
 
 ## About Me
 - 🔭 I’m currently working on [nothing]
