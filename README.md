@@ -1,4 +1,4 @@
-# Hi there, I'm [Jiwan Seo] 👋
+# I'm Jiwan 🤓🤓
 
 ## About Me
 - 🔭 I’m currently working on [nothing]
