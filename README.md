@@ -9,7 +9,6 @@
 - 📫 How to reach me: [wldhks1959@donga.ac.kr]
 - 😄 Pronouns: [nothing]
 - ⚡ Fun fact: [nothing]
-[![Audio Example](test.mp3)](test.mp3)
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
