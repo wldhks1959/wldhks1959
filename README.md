@@ -14,4 +14,6 @@
 </div>
 
 ## Solved.ac 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959)
+<div algin="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959)
+</div>
