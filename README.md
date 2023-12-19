@@ -12,3 +12,6 @@
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
 </div>
+
+## Solved.ac 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959)
