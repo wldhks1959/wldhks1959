@@ -4,6 +4,8 @@
 - I’m currently working on Graphics Lab
 - I’m currently learning [OpenGL, Computer_Graphics]
 - How to reach me: [wldhks1959@donga.ac.kr]
+##
+
 ## Languages and Tools
 <div align="center">
   
@@ -12,8 +14,8 @@
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
 </div>
+##
 
 ## Solved.ac  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959)
-  
-
+##
