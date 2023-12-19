@@ -1,9 +1,9 @@
 # I'm Jiwan 🤓🤓
 
 ## About Me
-- 🔭 I’m currently working on Graphics Lab
-- 🌱 I’m currently learning [OpenGL, Computer_Graphics]
-- 📫 How to reach me: [wldhks1959@donga.ac.kr]
+**I’m currently working on Graphics Lab
+**I’m currently learning [OpenGL, Computer_Graphics]
+**How to reach me: [wldhks1959@donga.ac.kr]
 ## Languages and Tools
 <div align="center">
   
