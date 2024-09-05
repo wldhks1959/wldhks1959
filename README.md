@@ -5,13 +5,17 @@ How to reach me: "gg812056@gmail.com"
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldhks1959&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wldhks1959)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959) 
-
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
-https://github.com/wldhks1959
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/>
-<div align="center">
+<div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959) 
+
+
+
+
   
 ## 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&&logo=c&logoColor=white"/>  
