@@ -9,11 +9,7 @@ How to reach me: "gg812056@gmail.com"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/><div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959) 
-
-
-
-
+<img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/><div align="center"> 
   
 ## 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&&logo=c&logoColor=white"/>  
