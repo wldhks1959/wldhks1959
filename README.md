@@ -10,7 +10,7 @@ How to reach me: "gg812056@gmail.com"
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
 https://github.com/wldhks1959
-<img src="http://mazandi.herokuapp.com/api?handle={wldhks1959}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/>
 <div align="center">
   
 ## 🛠️ Tech Stack
