@@ -12,7 +12,13 @@
 
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=C++&logoColor=white"/>
+
+## Stack
+<img src="https://img.shields.io/badge/c-00599C?style=flat-square&&logo=c&logoColor=white"/>  
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&&logo=cplusplus&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-2496ED?style=flat-square&&logo=linux&logoColor=white"/>
 
 
 </div>
