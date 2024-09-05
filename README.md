@@ -6,10 +6,9 @@
 - I’m currently learning "linux kernel"
 - How to reach me: "gg812056@gmail.com"
 
+<div align="center">
 
 ## Languages and Tools
-<div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
@@ -23,7 +22,9 @@
 <img src="https://img.shields.io/badge/linux-2496ED?style=flat-square&&logo=linux&logoColor=white"/>
 
 
-</div>
+
 
 ## Solved.ac  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959)
+
+</div>
