@@ -12,6 +12,9 @@
 
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
+<img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=C++&logoColor=white"/>
+
+
 </div>
 
 ## Solved.ac  
