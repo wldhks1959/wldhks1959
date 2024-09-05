@@ -7,11 +7,9 @@ How to reach me: "gg812056@gmail.com"
 
 ![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldhks1959&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldhks1959&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/>
-<div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959) 
+<img src="http://mazandi.herokuapp.com/api?handle=wldhks1959&theme=warm"/><div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldhks1959)](https://solved.ac/wldhks1959) 
 
 
 
