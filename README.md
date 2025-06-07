@@ -1,5 +1,5 @@
 # I'm Jiwan 🤓🤓
-I am a 3rd computer engineering student at Dong-A Univ. I am also the leader of the computer graphics society of Dong-A Univ. I've recently been interested in "linux kernel", so I'm studying them.
+I am a 4th computer engineering student at Dong-A Univ. I am also the leader of the computer graphics society of Dong-A Univ. I've recently been interested in "linux kernel", so I'm studying them.
 
 How to reach me: "gg812056@gmail.com"
 
